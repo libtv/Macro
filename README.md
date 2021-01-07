@@ -2,6 +2,7 @@
 바람의나라 매크로 학업용
 
 ==========================================================================
+
 windows10, LDPlayer, Python
 Used library : OpenCV, tesseract, etc..
 
