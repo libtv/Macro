@@ -5,5 +5,9 @@
 windows10, LDPlayer, Python
 Used library : OpenCV, tesseract, etc..
 
+Size : 1080*720
+Game Size : 100%
+Wake up the sleep mode
+
 ===========================================================================
 
